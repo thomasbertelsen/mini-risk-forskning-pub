@@ -1,10 +1,10 @@
 ---
-title: Example Event
+title: Mini-RISK project Kick-off conference
 
-event: Wowchemy Conference
+event: Mini-RISK project Kick-off conference
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: University of Agder
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example event.
+summary: Mini-RISK project Kick-off conference
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
