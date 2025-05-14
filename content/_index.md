@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The Mini-RISK research grroup is leading the effort to make effective treatments for anxious youth available in the school setting.
+        The Mini-RISK research group is leading the effort to make effective treatments for anxious youth available in the school setting.
   
   - block: collection
     content:
