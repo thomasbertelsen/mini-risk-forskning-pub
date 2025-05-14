@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Aashild T. Haaland
+title: Ingrid Skarpaas
 
 # Full Name (for SEO)
-first_name: Aashild
-last_name: Haaland
+first_name: Ingrid
+last_name: Skarpaas
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: Ph.D Student
 
 # Organizations/Affiliations
 organizations:
@@ -28,8 +28,8 @@ interests:
 education:
   courses:
     - course: PhD in Clinical Psychology
-      institution: University of Oslo
-      year: 2012
+      institution: University of Agder
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -63,7 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Researchers
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
